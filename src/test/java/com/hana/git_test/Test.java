@@ -6,4 +6,8 @@ public class Test {
   int c; // 나도 수정(daeyong 브랜치)
 
   int d;
+
+  int aa;
+
+  int qqqq;
 }
